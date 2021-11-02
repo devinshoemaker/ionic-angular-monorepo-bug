@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "ionic-app": {
+      "name": "ionic-app",
+      "integrations": {
+        "capacitor": {}
+      },
+      "type": "angular",
+      "root": "projects/ionic-app"
+    }
+  },
+  "defaultProject": "ionic-app"
+}
