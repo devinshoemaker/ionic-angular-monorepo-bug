@@ -1,4 +1,6 @@
 {
   "name": "ionic-app",
-  "dependencies": {}
+  "dependencies": {
+    "@angular/cli": "~12.2.12"
+  }
 }
