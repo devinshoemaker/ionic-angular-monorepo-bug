@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "appId": "12312313",
+      "appId": "9da9a50d",
       "root": "projects/ionic-app",
       "dependencyInstallCommand": "npm install && cd ../../ && npm install",
       "webBuildCommand": "cd ../.. && ionic build"
