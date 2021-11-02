@@ -2,6 +2,7 @@
   "name": "ionic-app",
   "dependencies": {
     "@angular/cli": "~12.2.12",
+    "@capacitor/android": "3.2.5",
     "@capacitor/app": "1.0.5",
     "@capacitor/core": "3.2.5",
     "@capacitor/haptics": "1.1.2",
