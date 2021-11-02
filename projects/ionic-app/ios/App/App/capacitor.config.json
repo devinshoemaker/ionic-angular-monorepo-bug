@@ -1,0 +1,8 @@
+{
+	"appId": "com.something.something",
+	"appName": "Ionic App",
+	"webDir": "../../dist/ionic-app",
+	"bundledWebRuntime": false,
+	"loggingBehavior": "debug",
+	"includePlugins": []
+}
